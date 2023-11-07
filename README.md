@@ -1,4 +1,5 @@
-Description
+Description!
+[image](https://github.com/majdhamdallah42/Weather-Dashboard/assets/142567792/908f0bc7-0b82-4d5b-9806-16e3526d805a)
 
 This Weather Dashboard is designed to provide users with real-time weather updates for both local and global locations. I developed this website to showcase my proficiency in working with APIs, JavaScript, and HTML.
 
