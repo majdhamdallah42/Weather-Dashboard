@@ -11,3 +11,5 @@ To use the Weather Dashboard, simply open your web browser and navigate to the s
 Credits
 
 Developed by Majd Hamdallah
+
+https://github.com/majdhamdallah42/Weather-Dashboard.git
