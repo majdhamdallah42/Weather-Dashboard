@@ -13,3 +13,4 @@ Credits
 Developed by Majd Hamdallah
 
 https://github.com/majdhamdallah42/Weather-Dashboard.git
+https://majdhamdallah42.github.io/Weather-Dashboard/
