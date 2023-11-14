@@ -50,7 +50,7 @@ searchHistoryList.on("click", "li.city-btn", function (event) {
 
 });
 function currentConditionsRequest(searchValue) {
-
+//APIKEY
     var queryURL = "https://api.openweathermap.org/data/2.5/weather?q=" + searchValue + "&units=imperial&appid=" + APIkey;
 
     $.ajax({
